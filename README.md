@@ -190,8 +190,8 @@ Response:
 
 ## 📄 License & Contact
 **License:** MIT  
-**Repo:** [github.com/yourusername/learnflow](https://github.com/yourusername/learnflow)  
-**Contact:** youremail@example.com | @yourhandle  
+**Repo:** [github.com/Atharvm05/learnflow](https://github.com/Atharvm05/learnflow)  
+ 
 
 ---
 
@@ -201,4 +201,3 @@ Response:
 **Problem:** Students struggle with consistency and structured learning.  
 **Solution:** LearnFlow creates personalized weekly plans and visual progress dashboards.  
 **Tech:** OpenAI API, FastAPI, Node.js, Vue.js, Tailwind, Supabase.  
-**Demo:** [learnflow.vercel.app](https://learnflow.vercel.app)
