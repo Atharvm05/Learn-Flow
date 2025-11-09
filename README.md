@@ -190,7 +190,7 @@ Response:
 
 ## 📄 License & Contact
 **License:** MIT  
-**Repo:** [github.com/Atharvm05/learnflow](https://github.com/Atharvm05/learnflow)  
+**Repo:** [github.com/Atharvm05/Learn-Flow](https://github.com/Atharvm05/Learn-Flow)  
  
 
 ---
